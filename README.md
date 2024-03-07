@@ -7,4 +7,15 @@
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Fontes utilizadas](#fontes-utilizadas)
-* [Autores](#autores)
+
+
+## Descrição
+Construimos um cardapio web,e editamos conforme nosso gosto
+## Introdução
+O objetivo desse trabalho()
+## Funcionalidades
+Exibir nossas habilidades e nosso estilo de trabalho
+## Tecnologias Utilizadas
+Html e css
+## Fontes utilizadas
+Gloogle,Bootstrap
