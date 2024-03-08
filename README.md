@@ -12,7 +12,7 @@
 ## Descrição
 Construimos um cardapio web,e editamos conforme nosso gosto
 ## Introdução
-O objetivo desse trabalho()
+O objetivo desse trabalho(construirmos nosso próprio trabalho)
 ## Funcionalidades
 Exibir nossas habilidades e nosso estilo de trabalho
 ## Tecnologias Utilizadas
