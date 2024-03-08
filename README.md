@@ -18,6 +18,6 @@ Exibir nossas habilidades e nosso estilo de trabalho
 ## Tecnologias Utilizadas
 Html e css
 ## Fontes utilizadas
-Gloogle,Bootstrap
+Google
 ## Resultado
 ![gravação.gif.gif](img/grava%C3%A7%C3%A3o.gif.gif)
